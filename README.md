@@ -10,5 +10,5 @@ git clone https://github.com/hooay233/Hoozeeth.git
 
 **Then** add this command to `.zshrc` file:
 ```zsh
-source “ReplaceThisPieceOfTextWithThePathOfHoozeeth”/Hoozeeth.zsh
+source “ReplaceThisPieceOfTextWithThePathOfHoozeeth”/Hoozeeth.plugin.zsh
 ```
