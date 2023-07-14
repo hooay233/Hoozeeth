@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400">
+	<rect x="50" y="50" width="500" height="300" rx="10" ry="10" fill="#111" opacity="0.88"/>
+	<rect x="50" y="50" width="500" height="30" rx="10" ry="10" fill="#444" />
+	<text x="60" y="70" fill="#eee" font-size="16">Terminal</text>
+	<circle cx="530" cy="65" r="8" fill="#aa1111" stroke="#eee" stroke-width="2.5"/>
+	<circle cx="505" cy="65" r="8" fill="#88aaff" stroke="#eee" stroke-width="2.5"/>
+	<circle cx="480" cy="65" r="8" fill="#bb7700" stroke="#eee" stroke-width="2.5"/>
+	<g>
+		<text fill="#eee" font-size="12" font-family="monospace">
+			<tspan x="55" y="97"><tspan fill="#348">|</tspan><tspan fill="#828">&lt;<tspan fill="#e3e">UserName</tspan>@<tspan fill="#e3e">HostName</tspan>&gt;</tspan><tspan fill="#289">(<tspan fill="#4de">23-07-14</tspan>/<tspan fill="#4de">14:17:54</tspan>)</tspan></tspan>
+			<tspan x="55" y="109"><tspan fill="#348">|</tspan><tspan fill="#a82">[<tspan fill="#ed3">~/path</tspan>]</tspan><tspan fill="#555">*0</tspan></tspan>
+			<tspan x="55" y="121"><tspan fill="#348">|</tspan> <tspan fill="#58e">$</tspan> echho "Hello Zsh!"</tspan>
+			<tspan x="55" y="133">No command echho found, did you mean:</tspan>
+			<tspan x="55" y="145">&#160;Command echo in package coreutils</tspan>
+			<tspan x="55" y="157"><tspan fill="#348">|</tspan><tspan fill="#828">&lt;<tspan fill="#e3e">UserName</tspan>@<tspan fill="#e3e">HostName</tspan>&gt;</tspan><tspan fill="#289">(<tspan fill="#4de">23-07-14</tspan>/<tspan fill="#4de">14:18:03</tspan>)</tspan></tspan>
+			<tspan x="55" y="169"><tspan fill="#348">|</tspan><tspan fill="#a82">[<tspan fill="#ed3">~/path</tspan>]</tspan><tspan fill="#555">*127</tspan></tspan>
+			<tspan x="55" y="181"><tspan fill="#348">|</tspan> <tspan fill="#58e">$</tspan> echo "Hello Zsh!"</tspan>
+			<tspan x="55" y="193">Hello Zsh!</tspan>
+			<tspan x="55" y="205"><tspan fill="#348">|</tspan><tspan fill="#828">&lt;<tspan fill="#e3e">UserName</tspan>@<tspan fill="#e3e">HostName</tspan>&gt;</tspan><tspan fill="#289">(<tspan fill="#4de">23-07-14</tspan>/<tspan fill="#4de">14:18:11</tspan>)</tspan></tspan>
+			<tspan x="55" y="217"><tspan fill="#348">|</tspan><tspan fill="#a82">[<tspan fill="#ed3">~/path</tspan>]</tspan><tspan fill="#555">*0</tspan></tspan>
+			<tspan x="55" y="229"><tspan fill="#348">|</tspan> <tspan fill="#58e">$</tspan><tspan fill="#888">_</tspan></tspan>
+		</text>
+	</g>
+</svg>
