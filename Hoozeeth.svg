@@ -18,7 +18,7 @@
 			<tspan x="55" y="193">Hello Zsh!</tspan>
 			<tspan x="55" y="205"><tspan fill="#348">|</tspan><tspan fill="#828">&lt;<tspan fill="#e3e">UserName</tspan>@<tspan fill="#e3e">HostName</tspan>&gt;</tspan><tspan fill="#289">(<tspan fill="#4de">23-07-14</tspan>/<tspan fill="#4de">14:18:11</tspan>)</tspan></tspan>
 			<tspan x="55" y="217"><tspan fill="#348">|</tspan><tspan fill="#a82">[<tspan fill="#ed3">~/path</tspan>]</tspan><tspan fill="#555">*0</tspan></tspan>
-			<tspan x="55" y="229"><tspan fill="#348">|</tspan> <tspan fill="#58e">$</tspan><tspan fill="#888">_</tspan></tspan>
+			<tspan x="55" y="229"><tspan fill="#348">|</tspan> <tspan fill="#58e">$</tspan> <tspan fill="#888">_</tspan></tspan>
 		</text>
 	</g>
 </svg>
